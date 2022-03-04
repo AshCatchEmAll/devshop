@@ -5,7 +5,7 @@
 
 
 
-<pre><div align="center"><img style="margin-right: 5px;" src="https://img.shields.io/badge/Flutter-2.0-blue"/> <img src="https://img.shields.io/badge/%20%20Uptime-99%25-orange"/> <img src="https://img.shields.io/badge/%20%20build-passing-green"/> <img src="https://img.shields.io/badge/%20%20contributers-1-informational"/> <img src="https://img.shields.io/badge/maintainability-A-yellow"/> <img src="https://img.shields.io/badge/Node.js-%20%20-success"/> </div></pre> 
+<pre><div align="center"><img style="margin-right: 5px;" src="https://img.shields.io/badge/React-17.0.2-blue"/> <img src="https://img.shields.io/badge/%20%20Uptime-99%25-orange"/> <img src="https://img.shields.io/badge/%20%20build-passing-green"/> <img src="https://img.shields.io/badge/%20%20contributers-1-informational"/> <img src="https://img.shields.io/badge/maintainability-A-yellow"/>
 
 
 
