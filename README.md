@@ -1,4 +1,4 @@
-<div align="center"><h1>🏆✨🏆 1st place Winner for KuriusHacks 2021 🏆✨🏆</h1></div>
+
 <div align="center"><h1>Executive Leadership</h1></div>
 <div align="center"><h3>Profile gallery page</h3></div>
 
