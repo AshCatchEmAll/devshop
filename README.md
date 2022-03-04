@@ -19,7 +19,7 @@
 
 ## Display Shots
 
-<pre><div align="center"><img src ="s1.jpg" margin-left="10px" width="200" height="350">          <img src ="s2.jpg"  margin-left="10px" width="200" height="350">          <img src ="s3.jpg" width="200" height="350"></div></pre>
+<pre><div align="center"><img src ="s1.jpg" margin-left="10px" width="350" height="350"></br><img src ="s2.jpg"  margin-left="10px" width="350" height="650"></br><img src ="s3.jpg" width="350" height="350"></div></pre>
 
 
 
