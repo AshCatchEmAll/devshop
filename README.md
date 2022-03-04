@@ -14,6 +14,7 @@
 - [Display Shots](#display-shots)
 - [Running the project](#running-the-project)
 - [Demo](#demo)
+- [More](#more)
 
 
 
@@ -35,4 +36,10 @@
 ## Demo
 ```
 https://dreamy-ardinghelli-04d007.netlify.app/
+```
+
+## More
+Similar CSS project I did for fun
+```
+https://boring-johnson-b4cf23.netlify.app/
 ```
