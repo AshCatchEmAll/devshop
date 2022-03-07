@@ -1,6 +1,7 @@
 
 <div align="center"><h1>Executive Leadership</h1></div>
 <div align="center"><h3>Profile gallery page</h3></div>
+<div align="center"><h5>By Aashish Vichare</h5></div>
 
 
 
